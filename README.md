@@ -1,4 +1,4 @@
-# 🤖 Gemini AI Chatbot
+# 🤖 DRONZER AI Chatbot
 
 A simple Python-based AI chatbot that uses the Google Gemini API to generate responses to user prompts.
 
