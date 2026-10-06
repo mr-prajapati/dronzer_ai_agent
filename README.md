@@ -1,4 +1,4 @@
-# 🤖 Gemini AI Chatbot
+# 🤖 DRONZER AI AGENT
 
 Gemini AI Chatbot is a simple and interactive AI chatbot developed using Python and the Google Gemini API. The project allows users to communicate with Google's Gemini AI directly through the terminal and supports continuous conversations using the Gemini Chat SDK.
 
